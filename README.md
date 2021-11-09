@@ -1,4 +1,4 @@
-# How to use virtal tour plugin in Wordpress
+# How to use virtual tour plugin in Wordpress
 
 ## Step 1: Install Plugin
 ### 1. Login the back-end of the wordpress site
