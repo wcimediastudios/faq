@@ -52,7 +52,7 @@ Like this: **[...]**
 ![image](https://user-images.githubusercontent.com/6164650/141009041-d0735aa1-5daf-4753-96f4-96b8a497747a.png)
 
 3. Open page edit page
-4. Find the position where the virtual tour will be display of the page
+4. Find the position where the virtual tour will be displayed of the page
 5. Paste the shortcode
 6. Save and update the page
 7. View front page to check the result
